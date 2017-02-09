@@ -16,3 +16,10 @@
     3.2 定义 Action type 的常量
     3.3 创建 Action 生成器函数
 
+*会介绍一些 immutable 的概念以及 js 中如何实现
+
+4. 第四课 reducer
+    3.1 reducer 是一个单纯的函数
+    3.2 reducer 创建步骤说明
+    3.3 如何整合多个 reducer
+
