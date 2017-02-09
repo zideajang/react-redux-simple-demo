@@ -16,7 +16,6 @@ const mapDispatchToProps = (dispatch, ownProps) => {
   }
 }
 
-console.log(connect);
 
 const FilterLink = connect(
   mapStateToProps,
